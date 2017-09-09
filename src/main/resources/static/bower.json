@@ -1,0 +1,26 @@
+{
+  "name": "wms",
+  "authors": [
+    "Jeffrey Y. Pogoy <jypogoy@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.6",
+    "underscore": "^1.8.3",
+    "bootstrap": "boostrap#^3.3.7",
+    "font-awesome": "^4.7.0",
+    "hashmap": "^2.3.0",
+    "jquery": "^3.2.1",
+    "pnotify": "^3.2.1"
+  }
+}
